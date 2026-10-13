@@ -12,13 +12,6 @@ Versão de apresentação derivada do Painel Ticket Manager V45.3. A edição ma
 
 A referência é uma linguagem visual corporativa azul; esta não é a identidade visual oficial da IOS Informática, não utiliza o logotipo oficial da empresa e não implica aprovação institucional.
 
-## Publicar no GitHub Pages
-
-1. Crie um repositório separado para esta edição, por exemplo `painel-ticket-manager-edicao-executiva`.
-2. Extraia o ZIP e envie `index.html`, `README.md` e `SECURITY.md` para a raiz do repositório.
-3. Abra **Settings → Pages**.
-4. Em **Build and deployment**, escolha **Deploy from a branch**, branch `main` e pasta `/(root)`; salve.
-5. Aguarde a publicação e use a URL que o GitHub Pages informar.
 
 ## Validação desta edição
 
